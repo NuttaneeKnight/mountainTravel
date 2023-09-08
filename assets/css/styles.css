@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font: normal 16px sans-serif;
+  color: #555
+}
+
+nav {
+  list-style: none;
+}
+
+a {
+  /* taking the bullet point out */
+  text-decoration: none; 
+  opacity: 0.75
+}
