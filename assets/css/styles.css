@@ -32,3 +32,16 @@ header {
   padding: 35px 100px 0;
 }
 
+header h2 {
+  font-family: "Quicksand", sans-serif;
+}
+
+header nav {
+  display: flex;
+  margin-right: -15px;
+}
+
+header nav li {
+  margin: 0 15px;
+}
+
