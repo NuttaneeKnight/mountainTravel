@@ -85,7 +85,9 @@ header nav li {
   background-size: cover;
   /* Making the background image behind not as relevant */
   z-index: -1;
-  background-color: #80a3db; 
+  background-color: #80a3db;
+  /* Path was found for sure not sure why it won't render */
+  /* background-image: url(/assets/img/main.jpg) */
 }
 
 .hero h1 {
