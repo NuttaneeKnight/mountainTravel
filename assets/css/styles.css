@@ -115,6 +115,7 @@ header nav li {
 	animation: 1s slidefade 1s forwards;
 }
 
+/* Transition the opacity to one for the animation */
 @keyframes slidefade {
 	100% {
 		opacity: 1;
