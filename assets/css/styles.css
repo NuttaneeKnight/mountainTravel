@@ -11,6 +11,8 @@ html {
 	color: #555;
 }
 
+/* no styling for unordered list */
+ul,
 nav {
 	list-style: none;
 }
@@ -39,6 +41,14 @@ section {
 	flex-direction: column;
 	align-items: center;
 	padding: 100px 80px;
+}
+
+/* grid section centering everything and make it a flex */
+.grid {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 }
 
 /*Header Styles*/
