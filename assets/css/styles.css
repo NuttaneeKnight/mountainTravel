@@ -59,6 +59,15 @@ hr {
 	margin-bottom: 50px;
 }
 
+section h3.title {
+	text-transform: capitalize;
+	font: bold 32px "Open Sans", san-serif;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+
+
 /*Header Styles*/
 
 header {
