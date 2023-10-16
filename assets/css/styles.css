@@ -207,6 +207,22 @@ header nav li {
 	margin: 40px 0 25px;
 }
 
+/* Contact Section */
+.contact form {
+	display: flex;
+	align-items:center;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 60%;
+}
+
+ .contact form .btn{
+	padding: 18px 42px;
+ }
+
+ .contact form input {
+	
+ }
 
 
 
